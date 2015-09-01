@@ -1,6 +1,6 @@
 #free-for-dev
 
-本列表收集**国内** SaaS, PaaS 和 IaaS 的**完全免费**或**有限免费**服务，造福中国程序员。欢迎提交 PR。
+本列表收集**国内** SaaS, PaaS, Baas 和 IaaS 的**完全免费**或**有限免费**服务，造福中国程序员。欢迎提交 PR。
 
 # Contents
    * [Bug trackers](#bug-trackers)
@@ -12,6 +12,7 @@
    * [IDE](#ide)
    * [Project management](#project-management)
    * [PaaS](#paas)
+   * [Baas](#baas)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
 
@@ -55,6 +56,12 @@
 
 ## PaaS
 * [Coding](https://coding.net) - 提供永久免费的基础服务，包括但不限于代码托管，私有仓库，项目管理，演示空间，质量管理。 
+
+
+## Baas
+* [LeanCloud](https://leancloud.cn) -
+针对开发者和初期产品基本免费，提供移动应用云端数据存储，消息推送，应用内统计和实时通信。
+
 
 ## Security and PKI
  * [SCANV](http://www.scanv.com/) - 免费版提供有限的 API 接口
