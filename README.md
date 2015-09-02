@@ -12,7 +12,7 @@
    * [IDE](#ide)
    * [Project management](#project-management)
    * [PaaS](#paas)
-   * [Baas](#baas)
+   * [BaaS](#baas)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
 
@@ -24,6 +24,8 @@
 ## Collaboration Tools
  * [Coding](https://coding.net) - 提供永久免费的基础服务，包括但不限于代码托管，私有仓库，项目管理，演示空间，质量管理。
  * [Teambition](https://www.teambition.com) - 免费版有20个项目额度，每个项目不限制人数。
+ * [瀑布IM](https://pubu.im) - 免费的团队线上即时沟通服务，可以整合各种 SaaS 服务和接收通知，让团队和远程沟通更有效。
+ * [石墨](https://shimo.im) - 免费的在线实时协作文档服务，界面简单清晰，多人协同编辑，可以讨论和查看变更。
 
 ## Code-quality
  * [Coding](https://coding.net) - 提供永久免费的基础服务，包括但不限于代码托管，私有仓库，项目管理，演示空间，质量管理。
@@ -62,7 +64,6 @@
 ## Baas
 * [LeanCloud](https://leancloud.cn) -
 针对开发者和初期产品基本免费，提供移动应用云端数据存储，消息推送，应用内统计和实时通信。
-
 
 ## Security and PKI
  * [SCANV](http://www.scanv.com/) - 免费版提供有限的 API 接口
