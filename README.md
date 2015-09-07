@@ -37,6 +37,7 @@
 ## CDN 
  * [加速乐](http://www.jiasule.com) - 免费版提供有限免费加速防黑服务
  * [百度云加速](http://su.baidu.com) - 免费版提供有限免费加速防黑服务
+ * [七牛](http://www.qiniu.com) - 10GB永久免费存储空间; 每月10GB下载流量
  
 ## DNS
  * [DNSpod](https://www.dnspod.cn/) - 免费版提供免费 DNS 解析服务
