@@ -16,6 +16,7 @@
    * [BaaS](#baas)
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
+   * [Payment / Billing Integration](#payment--billing-integration)
 
 ## Bug trackers
 
@@ -78,6 +79,6 @@
  * [Gitcafe](https://gitcafe.com) - 提供免费的公开仓库，私有项目消耗 GitCoin。
 
 
+## Payment / Billing Integration
 
-
-
+ * [Ping++](https://pingxx.com/) - 轻便高效的聚合支付模块，支持微信、支付宝、银联等主流支付渠道。每月前十万笔成功交易免费，超出部分 0.01元/笔。
