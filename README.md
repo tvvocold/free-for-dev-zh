@@ -82,3 +82,7 @@
 ## Payment / Billing Integration
 
  * [Ping++](https://pingxx.com/) - 轻便高效的聚合支付模块，支持微信、支付宝、银联等主流支付渠道。每月前十万笔成功交易免费，超出部分 0.01元/笔。
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/qinghuaiorg/free-for-dev-zh/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
