@@ -9,6 +9,7 @@
    * [CI / CD](#ci--cd)
    * [CDN](#cdn)
    * [DNS](#dns)
+   * [EMAIL](#email)
    * [IDE](#ide)
    * [Monitoring](#monitoring)
    * [Project management](#project-management)
