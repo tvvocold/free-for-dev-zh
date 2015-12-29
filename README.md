@@ -50,6 +50,7 @@
 
 ## Email 
  * [网易企业邮](http://ym.163.com) - 免费版提供有限免费自定义域名邮箱服务
+ * [SendCloud](http://sendcloud.sohu.com) - 面向开发者的触发邮件发送平台
  
 ## IDE 
  * [Coding WebIDE](https://ide.coding.net) - 提供 3 个永久免费的 Workspaces 
