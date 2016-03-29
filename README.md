@@ -82,7 +82,6 @@
 ## Source Code Repos 
 
  * [Coding](https://coding.net)  - 提供永久免费的基础服务，包括但不限于代码托管，私有仓库，项目管理，演示空间，质量管理。
- * [Gitcafe](https://gitcafe.com) - 提供免费的公开仓库，私有项目消耗 GitCoin。
  * [OSC](http://git.oschina.net/) - 国内第二大的开源社区平台，为中国广大开发者提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示、众包平台等功能。
 
 
