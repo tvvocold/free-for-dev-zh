@@ -52,7 +52,9 @@
 ## Email 
  * [网易企业邮](http://ym.163.com) - 免费版提供有限免费自定义域名邮箱服务
  * [SendCloud](http://sendcloud.sohu.com) - 免费用户享有200封/天的发送额度，通过开发者认证后享有1000/天的发送额度
- 
+ * [腾讯域名邮箱](http://domain.mail.qq.com) - 免费的域名邮箱服务，最多100个相同域名的帐号
+ * [腾讯企业邮](https://exmail.qq.com/) - 免费版提供50人上限的企业邮件服务 
+
 ## IDE 
  * [Coding WebIDE](https://ide.coding.net) - 提供 3 个永久免费的 Workspaces 
  
