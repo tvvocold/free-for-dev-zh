@@ -71,7 +71,7 @@
 
 ## PaaS
  * [Coding](https://coding.net) - 一站式软件开发平台，提供永久免费的基础服务，包括但不限于（Git/SVN）代码托管，项目管理，Pages 服务，质量管理。
- * [码云](http://git.oschina.net/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
+ * [码云](https://gitee.com/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
 
 ## BaaS
  * [LeanCloud](https://leancloud.cn) -
@@ -82,13 +82,8 @@
  
 
 ## Source Code Repos 
-
  * [Coding](https://coding.net) - 一站式软件开发平台，提供永久免费的基础服务，包括但不限于（Git/SVN）代码托管，项目管理，Pages 服务，质量管理。
  * [码云](http://git.oschina.net/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
 
 ## Payment / Billing Integration
-
  * [Ping++](https://pingxx.com/) - 轻便高效的聚合支付模块，支持微信、支付宝、银联等主流支付渠道。每月前十万笔成功交易免费，超出部分 0.01元/笔。
-
-
-
