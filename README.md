@@ -1,10 +1,12 @@
-#free-for-dev
-
 本列表收集**国内** SaaS, PaaS, BaaS 和 IaaS 的**完全免费**或**有限免费**服务，造福中国程序员。欢迎提交 PR。
+
+联谊 Repo：
+
+[how2makemoney](https://github.com/tvvocold/how2makemoney) - 帮助中国开发者赚钱的网站、产品/服务目录
 
 # Contents
    * [Collaboration Tools](#collaboration-tools)
-   * [Monetization](#Monetization)
+   * [Monetization](#monetization)
    * [Code Quality](#code-quality)
    * [CI / CD](#ci--cd)
    * [CDN](#cdn)
@@ -30,7 +32,7 @@
  * [码云](http://git.oschina.net/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
 
 ## Monetization
- * [万维广告联盟](https://wwads.cn) - 尊重最终用户隐私和体验的广告网络联盟，让广告更优雅且有用。
+ * [万维广告联盟](https://wwads.cn) - 尊重最终用户隐私和体验的高端广告网络联盟，让广告更优雅且有用。
  * [Google Adsense](https://www.google.com/adsense/start/) - Google 网络联盟，让网站创收变现。
  
 ## Code-quality
