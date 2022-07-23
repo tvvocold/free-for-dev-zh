@@ -61,7 +61,9 @@
  * [腾讯企业邮](https://exmail.qq.com/) - 免费版提供50人上限的企业邮件服务 
 
 ## IDE 
- * [Coding WebIDE](https://ide.coding.net) - 提供 3 个永久免费的 Workspaces 
+ * [Cloud Studio](https://cloudstudio.net/) - 每月赠送 1000 分钟 2C4G 机型的云IDE
+ * [DevStudio](https://ide.aliyun.com/) - 阿里云云IDE, 公测免费。Theia 和 Projector
+ * [华为云 CloudIDE](https://www.huaweicloud.com/product/cloudide.html) - 每天免费 120 分钟 4C8G Theia IDE，每个实例60分钟
  
 ## Monitoring
  * [OneAPM](http://www.oneapm.com/) - 免费版可以存储3天的应用性能监控数据，涵盖服务器，客户端，浏览器，云服务等。
