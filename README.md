@@ -61,7 +61,9 @@
  * [腾讯企业邮](https://exmail.qq.com/) - 免费版提供50人上限的企业邮件服务 
 
 ## IDE 
- * [Coding WebIDE](https://ide.coding.net) - 提供 3 个永久免费的 Workspaces 
+ * [Cloud Studio](https://cloudstudio.net/) - 每月赠送 1000 分钟 2C4G 机型的云IDE
+ * [DevStudio](https://ide.aliyun.com/) - 阿里云云IDE, 公测免费。Theia 和 Projector
+ * [华为云 CloudIDE](https://www.huaweicloud.com/product/cloudide.html) - 每天免费 120 分钟 4C8G Theia IDE，每个实例60分钟
  
 ## Monitoring
  * [OneAPM](http://www.oneapm.com/) - 免费版可以存储3天的应用性能监控数据，涵盖服务器，客户端，浏览器，云服务等。
@@ -88,7 +90,9 @@
 
  * [Coding](https://coding.net) - 一站式软件开发平台，提供永久免费的基础服务，包括但不限于（Git/SVN）代码托管，项目管理，Pages 服务，质量管理。
  * [码云](http://git.oschina.net/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
-
+ * [GitCode](https://gitcode.net/) - CSDN 家的基于 GitLab 的代码托管和DevOps平台
+ * [云效](https://codeup.aliyun.com/) - 阿里云 DevOps
+ * [极狐GitLab](https://gitlab.cn) - 国内的 GitLab
 
 ## Payment / Billing Integration
 
