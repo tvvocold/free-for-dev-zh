@@ -90,7 +90,9 @@
 
  * [Coding](https://coding.net) - 一站式软件开发平台，提供永久免费的基础服务，包括但不限于（Git/SVN）代码托管，项目管理，Pages 服务，质量管理。
  * [码云](http://git.oschina.net/) - 免费提供团队协作、源码托管、代码质量分析、代码评审、测试、代码演示等功能。
-
+ * [GitCode](https://gitcode.net/) - CSDN 家的基于 GitLab 的代码托管和DevOps平台
+ * [云效](https://codeup.aliyun.com/) - 阿里云 DevOps
+ * [极狐GitLab](https://gitlab.cn) - 国内的 GitLab
 
 ## Payment / Billing Integration
 
