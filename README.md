@@ -48,6 +48,9 @@
  * [加速乐](http://www.jiasule.com) - 免费版提供有限免费加速防黑服务
  * [百度云加速](http://su.baidu.com) - 免费版提供有限免费加速防黑服务
  * [七牛](http://www.qiniu.com) - 10GB永久免费存储空间; 每月10GB下载流量
+
+## Web Hosting
+ * [Decent Realized Web](https://decentrealizedweb.xyz/) — 提供 5GB 免费网络托管，支持 MySQL、PostgreSQL、PHP、FTP、文件管理器、免费子域名、附加域名和软件安装器，24x7 邮件、聊天和电话支持。
  
 ## DNS
  * [DNSpod](https://www.dnspod.cn/) - 免费版提供免费 DNS 解析服务
