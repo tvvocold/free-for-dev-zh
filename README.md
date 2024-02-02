@@ -41,7 +41,6 @@
 
 
 ## CI / CD
- * [DaoCloud](http://daocloud.io) - 提供 2 个容器
  * [灵雀云](http://www.alauda.cn) - 用户可以每月领取约￥28 以运行一个免费的 XS 实例
  
 ## CDN 
